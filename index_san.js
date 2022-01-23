@@ -353,7 +353,7 @@ console.log(url)
 
          });
       }
-
+//boy
       // search chord
     if (text.includes("!chord"))
     {
